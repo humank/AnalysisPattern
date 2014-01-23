@@ -5,3 +5,5 @@ especially after read over this chapter..
 make some scenarios to practice the ORM usages.
 
 the db might be derby or other nosql db....
+
+and plus up the test framework --> TestNG , MockDB
